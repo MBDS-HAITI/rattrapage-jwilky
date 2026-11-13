@@ -1,0 +1,16 @@
+package ht.mbds.rattrapage.billetterie;
+
+import java.math.BigDecimal;
+
+public record TarifGroupe(int nombrePersonnes) implements Tarif {
+
+    @Override
+    public BigDecimal appliquer(BigDecimal prixBase) {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public int places() {
+        throw new UnsupportedOperationException();
+    }
+}
