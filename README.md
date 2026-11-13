@@ -20,10 +20,7 @@ Le travail est noté sur deux matières : **Java (/20)** pour la partie 1 et **S
 - Faites des **commits réguliers** (au moins un par exercice) et poussez votre travail avant la fin de l'épreuve. Seul ce qui est poussé sera corrigé.
 - Une **soutenance individuelle** suit l'épreuve : vous devrez expliquer votre code et le modifier en direct. Un code que vous ne savez pas expliquer ne sera pas valorisé.
 
-## Barème indicatif
-
-| | Java (partie 1) | Spring (partie 2) |
-|---|---|---|
+---|---|---|
 | Tests de correction automatiques | 10 | 9 |
 | Qualité du code | 4 | 4 |
 | Tests que vous écrivez | 2 | 3 |
