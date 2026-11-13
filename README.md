@@ -18,7 +18,6 @@ Le travail est noté sur deux matières : **Java (/20)** pour la partie 1 et **S
 - **Ne renommez pas et ne déplacez pas** les classes, méthodes, paquetages et fichiers fournis. Votre code sera exécuté contre des tests de correction supplémentaires qui s'appuient sur ces noms.
 - Les deux projets doivent compiler (`mvn test`). Un projet qui ne compile pas ne peut pas passer les tests de correction.
 - Faites des **commits réguliers** (au moins un par exercice) et poussez votre travail avant la fin de l'épreuve. Seul ce qui est poussé sera corrigé.
-- Une **soutenance individuelle** suit l'épreuve : vous devrez expliquer votre code et le modifier en direct. Un code que vous ne savez pas expliquer ne sera pas valorisé.
 
 ---
 
